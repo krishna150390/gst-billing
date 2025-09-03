@@ -12,6 +12,8 @@ starting point for experimenting with GST logic.
 - Supports intra-state (CGST + SGST) and inter-state (IGST) scenarios based on
   place of supply.
 - Optional QR code generation helper.
+- Create basic GSTR-1, GSTR-2, GSTR-3B and GSTR-9 reports in CSV and PDF
+  formats from invoices.
 
 ## Testing
 
